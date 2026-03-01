@@ -1,12 +1,12 @@
 # Challenge-Telecom-X
 Análise de Churn da Telecom X: Processo completo de ETL e Análise Exploratória (EDA) em Python. Extração de dados via API, tratamento de JSON aninhado com Pandas e visualização de insights de evasão com Seaborn e Matplotlib.
+
 📌 Descrição do Projeto
 Este projeto faz parte do desafio de Data Science do programa ONE (Oracle Next Education) em parceria com a Alura. O objetivo principal é atuar como Assistente de Dados para a Telecom X, uma empresa de telecomunicações que enfrenta um alto índice de evasão de clientes (Churn).
-
 O foco deste repositório é a realização do processo de ETL (Extract, Transform, Load) e uma Análise Exploratória de Dados (EDA) detalhada para identificar padrões que levam ao cancelamento dos serviços.
 
 🛠️ Tecnologias Utilizadas
-Python 3.x
+Python 
 
 Pandas: Manipulação e tratamento de dados.
 
