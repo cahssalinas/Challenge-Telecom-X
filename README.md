@@ -37,6 +37,7 @@ Serviços: Identificamos padrões de churn relacionados ao tipo de serviço de i
 Financeiro: Análise da correlação entre o valor da fatura mensal e a probabilidade de cancelamento.
 
 📁 Estrutura do Repositório
+
 notebooks/: Jupyter Notebooks com o código do desafio.
 
 data/: Pasta contendo o arquivo TelecomX_Tratado.csv gerado.
@@ -44,4 +45,5 @@ data/: Pasta contendo o arquivo TelecomX_Tratado.csv gerado.
 reports/: Relatório final com os insights de negócio.
 
 📈 Conclusão e Sugestões
+
 Com base nos dados tratados, sugeri à equipe de Data Science o foco em campanhas de retenção para contratos de curto prazo e a revisão da estratégia de preços para serviços de fibra óptica.
